@@ -1,0 +1,7 @@
+base     fullscreen
+author   Michael Braun
+email    michael-dev@fami-braun.de
+date     2013-04-25
+name     Quicktext Plugin
+desc     Insert text template using buttons.
+url      http://dokuwiki.org/plugin:fullscreen

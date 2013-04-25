@@ -1,0 +1,2 @@
+.editBox.fullscreen { z-Index: 200; position: fixed; top: 0px; left: 0px; right: 0px; bottom: 0px; background-color: white; width:100%; height:100%; overflow: auto; padding: 0px; }
+.editBox.fullscreen .editButtons, .editBox .ui-resizable-handle { display: none !important; }
